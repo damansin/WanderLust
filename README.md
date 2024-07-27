@@ -3,6 +3,7 @@ Project Overview<br><br>
 Wanderlust is a full-stack travel web application designed to offer a seamless experience for travelers. Users can list and browse properties, manage reviews, and interact with an intuitive interface. The application follows the MVC design pattern, ensuring a well-structured and maintainable codebase.
 <br>
 Link of the project - https://wanderlust-82rh.onrender.com/listings
+<br>
 
 Features <br>
 * Property Management: Create, read, update, and delete property listings.<br>
