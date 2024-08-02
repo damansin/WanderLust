@@ -3,7 +3,6 @@ const Review = require('../models/review.js');
 
 module.exports.post=async (req,res)=>{
     let listing= await Listing.findById(req.params.id); 
-    //id not able to take from app.js, so using mergeparams:true instead
     let newReview= new Review(req.body.review);
     newReview.author=req.user._id;
     listing.reviews.push(newReview);
