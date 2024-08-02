@@ -19,7 +19,7 @@ Technical Skills <br>
 * Frontend: HTML, CSS, JavaScript, Bootstrap <br>
 * Backend: Node.js, Express.js <br>
 * Templating: EJS Templates <br>
-* Database: MongoDB Atlas<br>
+* Database: MongoDB<br>
 * APIs: RESTful APIs
 
 Planned Features <br>
